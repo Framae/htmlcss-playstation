@@ -29,6 +29,12 @@
     min-height: 400px;
 }
 
+/* section videogames */
+
+.ms_videogames {
+    margin: 20px 0;
+}
+
 /* regole footer */
 
 footer {
