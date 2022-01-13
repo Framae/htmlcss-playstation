@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+/* regole header */
+
+
+.header_top {
+    padding: 8px;
+}
+
+.logo_sony {
+    width: 50px;
+    max-width: 100px;
+}
+
+
 /* regole footer */
 
 footer {
