@@ -43,6 +43,11 @@
     border-radius: 30px;
 }
 
+#playstation_now {
+    background-color: blue;
+    margin:  0;
+}
+
 /* regole footer */
 
 footer {
