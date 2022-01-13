@@ -6,6 +6,7 @@
 
 /* regole header */
 
+/* header top */
 
 .header_top {
     padding: 8px;
@@ -16,6 +17,17 @@
     max-width: 100px;
 }
 
+/* header bottom */
+
+.header_bottom {
+    margin-top: 20px;
+}
+
+/* regole Jumbotron */
+
+.j_image {
+    width: 100%;
+}
 
 /* regole footer */
 
