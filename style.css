@@ -5,6 +5,9 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+/* regole common */
+
+
 /* regole header */
 
 /* header top */
@@ -39,6 +42,15 @@
 .v_image {
     border-radius: 30px;
 }
+
+/* playstation plus */
+
+.playstation_plus {
+    background-color: gray;
+}
+
+
+/* playstation now */
 
 .playstation_now {
     background-color: blue;
