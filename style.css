@@ -29,8 +29,12 @@
 
 /* regole Jumbotron */
 
-.j_image {
-    min-height: 400px;
+
+.jumbotron {
+    background-image: url(img/jumbo-bg.png);
+    height: 500px;
+    background-size: cover;
+    background-position: center;
 }
 
 /* section videogames */
