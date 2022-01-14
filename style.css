@@ -37,6 +37,15 @@
     background-position: center;
 }
 
+.ms_img {
+    width: 300px;
+}
+
+.ms_d_flex {
+    display: flex;
+    align-items: flex-end;
+}
+
 /* section videogames */
 
 .ms_videogames {
