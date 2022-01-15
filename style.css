@@ -24,7 +24,11 @@
 /* header bottom */
 
 .header_bottom {
-    margin-top: 20px;
+    margin-top: 25px;
+}
+
+.lens_size {
+    width: 35px;
 }
 
 /* regole Jumbotron */
@@ -34,6 +38,7 @@
     background-image: url(img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
+    margin-top: 100px;
 }
 
 .ms_div_size {
@@ -48,6 +53,13 @@ padding-bottom: 20px;
 .ms_d_flex {
     display: flex;
     align-items: flex-end;
+}
+
+/* section VIDEOGAMES */
+
+.card_image:hover {
+    transform: translateY(-15px);
+    transition: all 0.7s ease 0s;
 }
 
 /* section TakesTwo */
