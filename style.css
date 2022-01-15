@@ -32,19 +32,32 @@
 
 .jumbotron {
     background-image: url(img/jumbo-bg.png);
-    height: 500px;
     background-size: cover;
     background-position: center;
 }
 
+.ms_div_size {
+padding-top:200px;
+padding-bottom: 20px;
+}
+
 .ms_img {
-    width: 300px;
+    max-width: 200px;
 }
 
 .ms_d_flex {
     display: flex;
     align-items: flex-end;
 }
+
+/* section TakesTwo */
+
+.takestwo {
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 
 /* section videogames */
 
