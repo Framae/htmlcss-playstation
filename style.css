@@ -70,6 +70,15 @@ padding-bottom: 20px;
     width: 100px;
 }
 
+.opacity {
+    opacity: 0.8;
+}
+
+.opacity:hover {
+    opacity: 1;
+    transition: all 0.2s ease 0s;
+}
+
 /* section TakesTwo */
 
 .takestwo {
