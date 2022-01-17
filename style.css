@@ -7,6 +7,9 @@
 
 /* regole common */
 
+.btn:hover {
+    border: 3px solid red;
+}
 
 /* regole header */
 
@@ -30,7 +33,6 @@
 .lens_size {
     width: 35px;
 }
-
 /* regole Jumbotron */
 
 
@@ -57,9 +59,16 @@ padding-bottom: 20px;
 
 /* section VIDEOGAMES */
 
+.card_image {
+    
+}
+
 .card_image:hover {
     transform: translateY(-15px);
     transition: all 0.7s ease 0s;
+    border: 5px solid blue;
+    padding: 5px;
+    border-radius: 30px;
 }
 
 /* section CONSOLE */
