@@ -24,7 +24,7 @@
 /* header bottom */
 
 .header_bottom {
-    margin-top: 25px;
+    margin-top: 27px;
 }
 
 .lens_size {
@@ -64,10 +64,17 @@ padding-bottom: 20px;
 
 /* section CONSOLE */
 
-.blue_line {
-    background-color: blue;
-    height: 2px;
-    width: 100px;
+
+.b_bottom {
+    border-bottom: 2px solid blue;
+}
+
+.ms_b_bottom {
+    border-bottom: 2px solid transparent;
+}
+
+.ms_b_bottom:hover, .ms_b_bottom:active {
+    border-bottom: 2px solid blue;
 }
 
 .opacity {
@@ -76,7 +83,6 @@ padding-bottom: 20px;
 
 .opacity:hover {
     opacity: 1;
-    transition: all 0.2s ease 0s;
 }
 
 /* section TakesTwo */
