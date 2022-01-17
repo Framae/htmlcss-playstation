@@ -7,8 +7,15 @@
 
 /* regole common */
 
+.btn {
+    outline: 1px solid white;
+    outline-offset: 2px;
+}
+
+
 .btn:hover {
-    border: 3px solid red;
+    outline: 1px solid black;
+    inset-inline: 5px;
 }
 
 /* regole header */
